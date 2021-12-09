@@ -75,16 +75,16 @@ public class EffectConfig {
 	/**
 	 * @return true if the image will be blurred
 	 */
-	public boolean isBlurEnabled() {
-		return blurEnabled;
-	}
+// 	public boolean isBlurEnabled() {
+// 		return blurEnabled;
+// 	}
 
 	/**
 	 * @return true if outline shadow for text will be drawn on the image
 	 */
-	public boolean isOutlineEnabled() {
-		return outlineEnabled;
-	}
+// 	public boolean isOutlineEnabled() {
+// 		return outlineEnabled;
+// 	}
 
 	/**
 	 * @return true if the text letters will be rotated before drawn on the
